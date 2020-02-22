@@ -18,3 +18,5 @@ Part 2: The Camera node has an attached script which implements screen shake. Ad
 For the screen shake to be visible, the Camera node needs to be set as the current camera. Select the Camera node, and in the Inspector panel, check the Current box.
 
 When you have completed the exercise, *update the LICENSE and README.md*, commit and push your changes to GitHub, and turn in the URL to your repository on Canvas.
+
+Exercise completed and all inputs implemented.
